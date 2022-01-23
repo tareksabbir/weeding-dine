@@ -4,7 +4,7 @@ body{
     font-family: "poppins",sans-serif;
 }
 .carousel-lg-item {
-    height: 92vh;
+    height: 100vh;
     min-height: 600px;  
 }
 
@@ -36,7 +36,7 @@ body{
 }
 
 .w-100{
-    height: 92vh;
+    height: 100vh;
 }
 
 .btn2{
@@ -45,3 +45,33 @@ body{
     background-color:#3F87F5;
     padding: 10px 40px;
 }
+
+.padding-tops{
+    padding-top: 8rem;
+}
+
+.card-box{
+    align-items: center;
+    margin-left: 2rem;
+}
+
+.card-box a{
+    text-decoration: none;
+    color:#3F87F5;
+}
+
+.box-design{
+    background-color: #3F87F5;
+    border-radius: 2rem;
+    color: white;
+
+}
+
+.box-design a{
+    color: #3F87F5;
+    background-color: white;
+    border-radius: 2rem;
+    padding: 10px 40px;
+
+}
+
