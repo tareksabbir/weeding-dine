@@ -52,7 +52,7 @@ body{
 
 .card-box{
     align-items: center;
-    margin-left: 2rem;
+    
 }
 
 .card-box a{
@@ -88,4 +88,5 @@ height: 100px;
 .round-box{
     border-radius: 2rem;
 }
+
 
