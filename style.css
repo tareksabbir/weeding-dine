@@ -75,3 +75,17 @@ body{
 
 }
 
+.testimonial{
+    align-items: center;
+    text-align: center;
+}
+
+.testimonial img{
+    width: 100px;
+height: 100px;
+}
+
+.round-box{
+    border-radius: 2rem;
+}
+
