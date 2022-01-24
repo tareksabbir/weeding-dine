@@ -66,6 +66,10 @@ body{
     color: white;
 
 }
+.box-design:hover{
+    transform: scale(.8);
+    transition: .5s all ease;
+}
 
 .box-design a{
     color: #3F87F5;
@@ -78,6 +82,7 @@ body{
 .testimonial{
     align-items: center;
     text-align: center;
+    
 }
 
 .testimonial img{
@@ -87,6 +92,10 @@ height: 100px;
 
 .round-box{
     border-radius: 2rem;
+}
+.round-box:hover{
+    transform: scale(.8);
+    transition: .5s all ease;
 }
 
 .tost-part{
